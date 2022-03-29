@@ -1,0 +1,2 @@
+
+# def encryption(txt, key):
